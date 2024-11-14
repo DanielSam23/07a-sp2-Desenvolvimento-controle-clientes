@@ -1,0 +1,14 @@
+C:\Users\Gavidia\Desktop\Controle-Clientes\bin\Debug\net9.0\Controle-Clientes.exe
+C:\Users\Gavidia\Desktop\Controle-Clientes\bin\Debug\net9.0\Controle-Clientes.deps.json
+C:\Users\Gavidia\Desktop\Controle-Clientes\bin\Debug\net9.0\Controle-Clientes.runtimeconfig.json
+C:\Users\Gavidia\Desktop\Controle-Clientes\bin\Debug\net9.0\Controle-Clientes.dll
+C:\Users\Gavidia\Desktop\Controle-Clientes\bin\Debug\net9.0\Controle-Clientes.pdb
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\Controle-Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\Controle-Clientes.AssemblyInfoInputs.cache
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\Controle-Clientes.AssemblyInfo.cs
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\Controle-Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\Controle-Clientes.dll
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\refint\Controle-Clientes.dll
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\Controle-Clientes.pdb
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\Controle-Clientes.genruntimeconfig.cache
+C:\Users\Gavidia\Desktop\Controle-Clientes\obj\Debug\net9.0\ref\Controle-Clientes.dll
